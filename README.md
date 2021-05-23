@@ -57,9 +57,10 @@ Config ADV
 + HOME_BEFORE_FILAMENT_CHANGE           // Ensure homing has been completed prior to parking for filament change
 
 Stepper Drivers changed:
-#define X_DRIVER_TYPE  DRV8825  // Lan Step mode switch 001  was A4988 switch 111 
+#define X_DRIVER_TYPE  DRV8825  // Lan Step mode switch 001  was A4988 switch 111
 #define Y_DRIVER_TYPE  DRV8825  // Lan Step mode switch 001  was A4988 switch 111 
 #define Z_DRIVER_TYPE  DRV8825  // Lan Step mode switch 001  was A4988 switch 111 
+
 [...]
 
 #define E0_DRIVER_TYPE A4988
