@@ -58,8 +58,11 @@ Config ADV
 
 Stepper Drivers changed:
 #define X_DRIVER_TYPE  DRV8825  // Lan Step mode switch 001  was A4988 switch 111
+
 #define Y_DRIVER_TYPE  DRV8825  // Lan Step mode switch 001  was A4988 switch 111 
+
 #define Z_DRIVER_TYPE  DRV8825  // Lan Step mode switch 001  was A4988 switch 111 
+
 
 [...]
 
